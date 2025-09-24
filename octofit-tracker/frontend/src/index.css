@@ -1,0 +1,48 @@
+
+body {
+  margin: 0;
+  font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.container {
+  margin-top: 30px;
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.table {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.card {
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.navbar {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.btn {
+  margin: 5px;
+}
+
+.form-control {
+  border-radius: 6px;
+}
+
+.modal-content {
+  border-radius: 8px;
+}
